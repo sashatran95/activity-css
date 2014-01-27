@@ -1,0 +1,65 @@
+html {
+    font-family: sans-serif, "sans-serif", serif;
+}
+
+body {
+    background-color: #FF9;
+}
+
+h1 {
+    font-family: sans-serif, "sans-serif", serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+p,
+li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+h1 +p {
+    font-size: 1.3rem;
+    line-height: 2rem;
+}
+
+p strong {
+    font-family: sans-serif, "sans-serif", serif;
+    color: #99F;
+}
+
+strong {
+    font-weight: bold;
+    font-family: sans-serif, "sans-serif", serif;
+}
+
+em {
+    font-style:italic;
+    font-family: times, "times", times;
+}
+
+hr {
+    border: solid 1px #99F
+}
+
+ul,
+ol {
+    background-color: #99F;
+}
+
+li {
+    color: #000;
+}
+
+ol li:first-child {
+    background-color: #F00;
+
+}
+
+ol li:last-child {
+    background-color: #5F5;
+}
+
+hr {
+    border: solid 1px #99F
+}
